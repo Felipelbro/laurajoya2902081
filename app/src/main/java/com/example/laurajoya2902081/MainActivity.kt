@@ -6,7 +6,7 @@ var edadPersona = 25
 
 
 ###constantes
-Las constantes se definen con la palabra clave val. Una vez que se les asigna un valor, no se puede modificar.
+Las constantes se definen con la palabra clave val. Una vez que se les asigna un valor, no se puede modificar.https://github.com/Felipelbro/laurajoya2902081
 
 val PI = 3.14159
 val urlSitio = "https://ejemplo.com"
